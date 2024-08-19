@@ -1,0 +1,16 @@
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\bin\Debug\Logilearn v2.exe.config
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\bin\Debug\Logilearn v2.exe
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\bin\Debug\Logilearn v2.pdb
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn v2.csproj.AssemblyReference.cache
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn_v2.Forms.HomePage.resources
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn_v2.Forms.IntervalForm.resources
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn_v2.Forms.LoadingScreen.resources
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn_v2.Forms.LogicForm.resources
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn_v2.Properties.Resources.resources
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn v2.csproj.GenerateResource.cache
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn v2.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn v2.exe
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilearn v2.pdb
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gaura\Desktop\Logilearn v2\Logilearn v2\obj\Debug\Logilear.5CF091EC.Up2Date
